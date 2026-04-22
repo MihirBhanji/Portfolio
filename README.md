@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio of Engineering projects by Mihir Bhanji
+Hardware and Embedded Software Projects by Mihir Bhanji
