@@ -1,4 +1,4 @@
-Developed an Isolated SPI transciever to communicate between the Master BMS and Distributed BMS
+Developed an Isolated SPI transciever to communicate between the Master BMS and Distributed BMS for Formula SAE EV
 
 Design
 - Built around BQ79600 IC
